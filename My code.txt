@@ -1,1 +1,7 @@
 Create code local push on github
+B1: git init
+git status check status file
+B2: git add .
+B3: git commit -m "sdfsdfsd"
+B4:git remote add origin https://github.com/CuongTranMCU/Project_Local_from_desk.git
+B5: git push origin master
